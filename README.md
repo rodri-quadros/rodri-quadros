@@ -2,7 +2,7 @@
 
 
 
-🇧🇷 Olá, Mundo! Sou Rodrigo, tenho 23 anos, natural do estado do Rio de Janeiro. Cursando bacharelado em Ciência da Computação na UNiversidade Veiga de Almeida (UVA). Acompanhe o meu trabalho e os meus estudos através do meu próprio GitHub, ou através do meu "[`Linkedin`](https://www.linkedin.com/in/rodriquadros/)", ou através do meu "[`site`]()", lá você encontra mais sobre mim, além do meu currículo completo, e infromaçoes de contatos.
+🇧🇷 Olá, Mundo! Sou Rodrigo, tenho 23 anos, natural do estado do Rio de Janeiro. Cursando bacharelado em Ciência da Computação na UNiversidade Veiga de Almeida (UVA). Acompanhe o meu trabalho e os meus estudos através do meu próprio GitHub, ou através do meu "[`Linkedin`](https://www.linkedin.com/in/rodriquadros/)", ou através do meu "[`site`](http://rodrigoquadros.com)", lá você encontra mais sobre mim, além do meu currículo completo, e infromaçoes de contatos.
 
 🇺🇲 Hello, World! I'm Rodrigo, 23 years old, born in the state of Rio de Janeiro. I'm pursuing a Bachelor's degree in Computer Science at Veiga de Almeida University (UVA). Follow my work and studies through my GitHub, on my "[`Linkedin`](https://www.linkedin.com/in/rodriquadros/)", or via my "[`website`]()", where you can find more about me, including my full résumé and contact information.
 
