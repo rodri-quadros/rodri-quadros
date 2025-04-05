@@ -1,5 +1,4 @@
-# 👨‍💻 | Rodrigo Quadros
-
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=hacker&weight=800&pause=700&color=03F700&background=000000&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Rodrigo+Quadros+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 🇧🇷 Olá, Mundo! Sou Rodrigo, tenho 23 anos, natural do estado do Rio de Janeiro. Cursando bacharelado em Ciência da Computação na UNiversidade Veiga de Almeida (UVA). Acompanhe o meu trabalho e os meus estudos através do meu próprio GitHub, ou através do meu "[`Linkedin`](https://www.linkedin.com/in/rodriquadros/)", ou através do meu "[`site`](http://rodrigoquadros.com)", lá você encontra mais sobre mim, além do meu currículo completo, e infromaçoes de contatos.
