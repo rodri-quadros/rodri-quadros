@@ -7,7 +7,7 @@
 
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodriquadros/)
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Leg0l4s.png)]()
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Leg0l4s.png)](http://rodrigoquadros.com)
 
 ![rodri-quadros GitHub stats](https://github-readme-stats.vercel.app/api?username=rodri-quadros&show_icons=true&theme=highcontrast)
 [![rodri-quadros Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodri-quadros&theme=highcontrast)]
